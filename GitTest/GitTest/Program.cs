@@ -11,6 +11,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("GitTest");
+            Console.WriteLine("1");
             Console.ReadLine();
         }
     }
